@@ -121,7 +121,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Interpretable AY # blog_name will be displayed in your blog page
+blog_name: Explainable AY # blog_name will be displayed in your blog page
 blog_description: A collection of forward-facing thoughts on current interests and research.
 permalink: /blog/:year/:title/
 
@@ -156,8 +156,8 @@ related_blog_posts:
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  - name:
+    rss_url:
 
 # -----------------------------------------------------------------------------
 # Collections
