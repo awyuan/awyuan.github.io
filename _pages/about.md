@@ -2,18 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: PhD Student at CICS UMass Amherst interested in explainable 
+    and trustworthy ML systems with special interest in LLMs and 
+    deep neural nets.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>
-    PhD Student at CICS UMass Amherst interested in explainable 
-    and trustworthy ML systems with special interest in LLMs and 
-    deep neural nets.
-    </p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
