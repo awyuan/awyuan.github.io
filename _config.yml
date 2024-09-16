@@ -122,7 +122,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Explainable AY # blog_name will be displayed in your blog page
-blog_description: A collection of forward-facing thoughts on current interests and research.
+blog_description: A collection of forward-facing thoughts on current interests, research, and other thoughts.
 permalink: /blog/:year/:title/
 
 # Pagination

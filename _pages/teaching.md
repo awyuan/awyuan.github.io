@@ -8,7 +8,7 @@ nav_order: 6
 ---
 
 ### Teaching Assistant at UMass Amherst
-
+CS326: Web Programming (Summer, Fall 2024)
 
 CS589: Machine Learning [(Spring 2024)](https://people.cs.umass.edu/~bsilva/courses/CMPSCI_589/Spring2024/)
 
