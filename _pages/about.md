@@ -15,12 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hello world! I am a PhD Student at CICS UMass Amherst interested in explainable and 
-trustworthy ML systems with special interest in LLMs and deep neural nets. I am advised by
-[Dr. Przemyslaw Grabowicz](https://przemyslslaw.github.io), and am a member of the SIMS Lab.
-
+Hello world! I am a PhD Candidate in Computer Science at the College of Information and Computer Sciences at UMass Amherst. I am co-advised by
+[Przemek Grabowicz](https://przemyslslaw.github.io) and [David Jensen](https://groups.cs.umass.edu/jensen/) and am a member of the SIMS Lab and the KDL Lab.
 Previously, I received my Bachelors of Science from Northeastern University, where I majored 
 in Computer Science with a concentration in AI and a minor in Mathematics.
+
+My research primarily focuses on understanding and evaluating machine learning systems, particularly large language models. I am interested in developing 
+evaluations that test whether LLMs are actually doing the things we claim they are, and in understanding how choices in experimental design and evaluation 
+can shape the conclusions we draw about these models. I am also interested in interpretable machine learning and in applying interpretable methods to 
+problems in domains such as social media, where understanding what a model has learned and how it reaches its decisions can be especially important.
 
 I believe that machine learning systems perform better when we can understand them, especially
 as humans become increasingly in the loop in ML usage. Our newest AI systems need to be explainable
